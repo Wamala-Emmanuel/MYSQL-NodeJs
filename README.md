@@ -11,4 +11,4 @@ Basic ExpressJs application that demonstrates how to connect to the database usi
 
 
 ### Author
-- [Wamala Emmanuel Kisakye](google.com)
+- [Wamala Emmanuel Kisakye]()
