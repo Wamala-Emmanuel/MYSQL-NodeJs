@@ -8,3 +8,7 @@ Basic ExpressJs application that demonstrates how to connect to the database usi
     "express": "^4.17.1",
     "mysql": "^2.18.1",
      node v12.16.3,
+
+
+### Author
+- [Wamala Emmanuel Kisakye](google.com)
